@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiUrl : 'https://dark.bee.net.tn:12443/bee_back',
+  factureApiUrl : 'https://dark.bee.net.tn:12443/facturesApi',
 };
 
 /*
